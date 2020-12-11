@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 347ef6af38ad892478cb80281abf996f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bird bath 1
+    100002: bird bath 2
+    100004: bird bath 3
+    100006: bird bath 4
+    100008: bird bath 5
+    100010: bird bath 6
+    100012: bird bath 7
+    100014: bird bath 8
+    100016: bird bath 9
+    100018: concrete bench 1
+    100020: concrete bench 10
+    100022: concrete bench 11
+    100024: concrete bench 12
+    100026: concrete bench 2
+    100028: concrete bench 3
+    100030: concrete bench 4
+    100032: concrete bench 5
+    100034: concrete bench 6
+    100036: concrete bench 7
+    100038: concrete bench 8
+    100040: concrete bench 9
+    100042: //RootNode
+    100044: fruit bowl 1
+    100046: fruit bowl 2
+    100048: fruit bowl 3
+    100050: fruit bowl 4
+    100052: fruit bowl 5
+    100054: fruit bowl 6
+    100056: terra cotta pot 1
+    100058: terra cotta pot 2
+    100060: terra cotta pot 3
+    100062: terra cotta pot 4
+    100064: vase 1a
+    100066: vase 1b
+    100068: vase 2a
+    100070: vase 2b
+    100072: vase 2c
+    100074: vase 2d
+    100076: vase 2e
+    100078: vase 3a
+    100080: vase 3b
+    100082: wooden bench 1
+    100084: wooden bench 10
+    100086: wooden bench 11
+    100088: wooden bench 12
+    100090: wooden bench 13
+    100092: wooden bench 2
+    100094: wooden bench 3
+    100096: wooden bench 4
+    100098: wooden bench 5
+    100100: wooden bench 6
+    100102: wooden bench 7
+    100104: wooden bench 8
+    100106: wooden bench 9
+    100108: vase 1c
+    100110: vase 1d
+    100112: vase 3c
+    100114: vase 3d
+    100116: wooden bench 14
+    100118: wooden bench 15
+    100120: wooden bench 16
+    100122: wooden bench 17
+    400000: bird bath 1
+    400002: bird bath 2
+    400004: bird bath 3
+    400006: bird bath 4
+    400008: bird bath 5
+    400010: bird bath 6
+    400012: bird bath 7
+    400014: bird bath 8
+    400016: bird bath 9
+    400018: concrete bench 1
+    400020: concrete bench 10
+    400022: concrete bench 11
+    400024: concrete bench 12
+    400026: concrete bench 2
+    400028: concrete bench 3
+    400030: concrete bench 4
+    400032: concrete bench 5
+    400034: concrete bench 6
+    400036: concrete bench 7
+    400038: concrete bench 8
+    400040: concrete bench 9
+    400042: //RootNode
+    400044: fruit bowl 1
+    400046: fruit bowl 2
+    400048: fruit bowl 3
+    400050: fruit bowl 4
+    400052: fruit bowl 5
+    400054: fruit bowl 6
+    400056: terra cotta pot 1
+    400058: terra cotta pot 2
+    400060: terra cotta pot 3
+    400062: terra cotta pot 4
+    400064: vase 1a
+    400066: vase 1b
+    400068: vase 2a
+    400070: vase 2b
+    400072: vase 2c
+    400074: vase 2d
+    400076: vase 2e
+    400078: vase 3a
+    400080: vase 3b
+    400082: wooden bench 1
+    400084: wooden bench 10
+    400086: wooden bench 11
+    400088: wooden bench 12
+    400090: wooden bench 13
+    400092: wooden bench 2
+    400094: wooden bench 3
+    400096: wooden bench 4
+    400098: wooden bench 5
+    400100: wooden bench 6
+    400102: wooden bench 7
+    400104: wooden bench 8
+    400106: wooden bench 9
+    400108: vase 1c
+    400110: vase 1d
+    400112: vase 3c
+    400114: vase 3d
+    400116: wooden bench 14
+    400118: wooden bench 15
+    400120: wooden bench 16
+    400122: wooden bench 17
+    2100000: Default
+    2100002: porcelain
+    2300000: bird bath 1
+    2300002: bird bath 2
+    2300004: bird bath 3
+    2300006: bird bath 4
+    2300008: bird bath 5
+    2300010: bird bath 6
+    2300012: bird bath 7
+    2300014: bird bath 8
+    2300016: bird bath 9
+    2300018: concrete bench 1
+    2300020: concrete bench 10
+    2300022: concrete bench 11
+    2300024: concrete bench 12
+    2300026: concrete bench 2
+    2300028: concrete bench 3
+    2300030: concrete bench 4
+    2300032: concrete bench 5
+    2300034: concrete bench 6
+    2300036: concrete bench 7
+    2300038: concrete bench 8
+    2300040: concrete bench 9
+    2300042: fruit bowl 1
+    2300044: fruit bowl 2
+    2300046: fruit bowl 3
+    2300048: fruit bowl 4
+    2300050: fruit bowl 5
+    2300052: fruit bowl 6
+    2300054: terra cotta pot 1
+    2300056: terra cotta pot 2
+    2300058: terra cotta pot 3
+    2300060: terra cotta pot 4
+    2300062: vase 1a
+    2300064: vase 1b
+    2300066: vase 2a
+    2300068: vase 2b
+    2300070: vase 2c
+    2300072: vase 2d
+    2300074: vase 2e
+    2300076: vase 3a
+    2300078: vase 3b
+    2300080: wooden bench 1
+    2300082: wooden bench 10
+    2300084: wooden bench 11
+    2300086: wooden bench 12
+    2300088: wooden bench 13
+    2300090: wooden bench 2
+    2300092: wooden bench 3
+    2300094: wooden bench 4
+    2300096: wooden bench 5
+    2300098: wooden bench 6
+    2300100: wooden bench 7
+    2300102: wooden bench 8
+    2300104: wooden bench 9
+    2300106: vase 1c
+    2300108: vase 1d
+    2300110: vase 3c
+    2300112: vase 3d
+    2300114: wooden bench 14
+    2300116: wooden bench 15
+    2300118: wooden bench 16
+    2300120: wooden bench 17
+    3300000: bird bath 1
+    3300002: bird bath 2
+    3300004: bird bath 3
+    3300006: bird bath 4
+    3300008: bird bath 5
+    3300010: bird bath 6
+    3300012: bird bath 7
+    3300014: bird bath 8
+    3300016: bird bath 9
+    3300018: concrete bench 1
+    3300020: concrete bench 10
+    3300022: concrete bench 11
+    3300024: concrete bench 12
+    3300026: concrete bench 2
+    3300028: concrete bench 3
+    3300030: concrete bench 4
+    3300032: concrete bench 5
+    3300034: concrete bench 6
+    3300036: concrete bench 7
+    3300038: concrete bench 8
+    3300040: concrete bench 9
+    3300042: fruit bowl 1
+    3300044: fruit bowl 2
+    3300046: fruit bowl 3
+    3300048: fruit bowl 4
+    3300050: fruit bowl 5
+    3300052: fruit bowl 6
+    3300054: terra cotta pot 1
+    3300056: terra cotta pot 2
+    3300058: terra cotta pot 3
+    3300060: terra cotta pot 4
+    3300062: vase 1a
+    3300064: vase 1b
+    3300066: vase 2a
+    3300068: vase 2b
+    3300070: vase 2c
+    3300072: vase 2d
+    3300074: vase 2e
+    3300076: vase 3a
+    3300078: vase 3b
+    3300080: wooden bench 1
+    3300082: wooden bench 10
+    3300084: wooden bench 11
+    3300086: wooden bench 12
+    3300088: wooden bench 13
+    3300090: wooden bench 2
+    3300092: wooden bench 3
+    3300094: wooden bench 4
+    3300096: wooden bench 5
+    3300098: wooden bench 6
+    3300100: wooden bench 7
+    3300102: wooden bench 8
+    3300104: wooden bench 9
+    3300106: vase 1c
+    3300108: vase 1d
+    3300110: vase 3c
+    3300112: vase 3d
+    3300114: wooden bench 14
+    3300116: wooden bench 15
+    3300118: wooden bench 16
+    3300120: wooden bench 17
+    4300000: vase 1a
+    4300002: vase 3a
+    4300004: wooden bench 1
+    4300006: terra cotta pot 1
+    4300008: terra cotta pot 2
+    4300010: terra cotta pot 3
+    4300012: terra cotta pot 4
+    4300014: bird bath 4
+    4300016: bird bath 3
+    4300018: bird bath 2
+    4300020: bird bath 1
+    4300022: bird bath 5
+    4300024: bird bath 6
+    4300026: bird bath 7
+    4300028: bird bath 8
+    4300030: bird bath 9
+    4300032: vase 1b
+    4300034: vase 3b
+    4300036: wooden bench 9
+    4300038: wooden bench 7
+    4300040: wooden bench 6
+    4300042: wooden bench 3
+    4300044: wooden bench 2
+    4300046: wooden bench 4
+    4300048: wooden bench 5
+    4300050: wooden bench 8
+    4300052: wooden bench 11
+    4300054: wooden bench 12
+    4300056: wooden bench 10
+    4300058: wooden bench 13
+    4300060: concrete bench 1
+    4300062: concrete bench 2
+    4300064: concrete bench 6
+    4300066: concrete bench 9
+    4300068: concrete bench 11
+    4300070: concrete bench 10
+    4300072: concrete bench 8
+    4300074: concrete bench 4
+    4300076: concrete bench 12
+    4300078: concrete bench 3
+    4300080: concrete bench 5
+    4300082: concrete bench 7
+    4300084: vase 2a
+    4300086: fruit bowl 1
+    4300088: fruit bowl 5
+    4300090: fruit bowl 3
+    4300092: fruit bowl 2
+    4300094: fruit bowl 4
+    4300096: fruit bowl 6
+    4300098: vase 2c
+    4300100: vase 2b
+    4300102: vase 2e
+    4300104: vase 2d
+    4300106: vase 1d
+    4300108: vase 1c
+    4300110: vase 3c
+    4300112: vase 3d
+    4300114: wooden bench 14
+    4300116: wooden bench 15
+    4300118: wooden bench 16
+    4300120: wooden bench 17
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+ConcreteDebris:|:5284c8360fa5c3d4c9af0582d624ce68:|:5:|:False
+Dust:|:6128ad54d9e84aa418271042774d91ae:|:5:|:False
+Porcelain Debris:|:2d8ad68c4e39bd64faa06e19475715ec:|:5:|:False
+WoodenBenchPieces:|:343d7a8dca7d0d246a9e25957454f849:|:5:|:False
